@@ -1,0 +1,5 @@
+x=int(input())
+shoe_sizes=[]
+for i in range(x):
+    shoe_sizes=int(input())
+    
